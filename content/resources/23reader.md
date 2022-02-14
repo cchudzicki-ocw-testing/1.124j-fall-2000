@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Recitations
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Image
 title: 23reader.gif
+type: OCWImage
 uid: 1cbba491-40a5-7fb2-5b61-8b2b09f8ad7f
 ---

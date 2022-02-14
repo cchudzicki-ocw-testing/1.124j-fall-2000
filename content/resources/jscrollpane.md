@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Recitations
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Image
 title: JScrollPane.gif
+type: OCWImage
 uid: 165cde23-7f97-fe5f-cdbb-5d9941c49e3d
 ---

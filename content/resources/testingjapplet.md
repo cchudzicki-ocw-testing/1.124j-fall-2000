@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Recitations
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Image
 title: testingJApplet.gif
+type: OCWImage
 uid: f6e73219-a907-2fa3-e012-35326d3e5c3d
 ---

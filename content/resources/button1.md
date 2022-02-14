@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Recitations
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Image
 title: button1.gif
+type: OCWImage
 uid: 24b38ffb-9451-dbb8-ecbc-fe23a6514214
 ---

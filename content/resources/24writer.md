@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Recitations
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Image
 title: 24writer.gif
+type: OCWImage
 uid: dbddd749-9bde-d555-8b04-5f94dcea773b
 ---
