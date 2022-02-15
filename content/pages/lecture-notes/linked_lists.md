@@ -6,7 +6,6 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: dd846b6b-f0c7-fd62-35a9-4e87d772d0e9
 title: Linked Lists
-type: CourseSection
 uid: 030b40c6-3c0f-72a6-b3c6-c628e49db05f
 ---
 

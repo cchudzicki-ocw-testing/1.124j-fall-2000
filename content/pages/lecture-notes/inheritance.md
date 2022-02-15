@@ -6,7 +6,6 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: dd846b6b-f0c7-fd62-35a9-4e87d772d0e9
 title: Inheritance
-type: CourseSection
 uid: a4708bad-8d4b-e4aa-eb25-0446faa7d391
 ---
 

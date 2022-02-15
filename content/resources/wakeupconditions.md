@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Image
 title: wakeupconditions.gif
-type: OCWImage
 uid: 76163ee3-f63d-c91c-3d9f-88be97281f08
 ---

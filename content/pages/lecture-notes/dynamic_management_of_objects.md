@@ -6,7 +6,6 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: dd846b6b-f0c7-fd62-35a9-4e87d772d0e9
 title: Dynamic Management of Objects
-type: CourseSection
 uid: 10cbc2f6-01a3-e189-7699-ef4c2482f9f9
 ---
 

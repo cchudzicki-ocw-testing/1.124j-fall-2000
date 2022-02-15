@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Image
 title: object.gif
-type: OCWImage
 uid: e45316c9-a420-f0b0-66d3-544026497bcd
 ---

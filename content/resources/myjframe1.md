@@ -13,6 +13,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Image
 title: myJFrame1.gif
-type: OCWImage
 uid: 25203a1d-1478-f4aa-8b55-5ecdb7403905
 ---

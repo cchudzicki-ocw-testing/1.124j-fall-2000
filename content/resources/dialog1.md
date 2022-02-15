@@ -13,6 +13,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Image
 title: dialog1.gif
-type: OCWImage
 uid: 0fc6b893-4460-22e2-b2e5-074d0bf41667
 ---

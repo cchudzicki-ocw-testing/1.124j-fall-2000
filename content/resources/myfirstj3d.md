@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Image
 title: myfirstj3d.gif
-type: OCWImage
 uid: 6b5587cd-656d-0bd0-fb79-7b5e50916d6c
 ---

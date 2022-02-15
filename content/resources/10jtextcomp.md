@@ -13,6 +13,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Image
 title: 10jtextcomp.gif
-type: OCWImage
 uid: 79dfd73b-4fa9-ad21-cb01-265849468f11
 ---

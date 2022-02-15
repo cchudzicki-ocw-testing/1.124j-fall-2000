@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Image
 title: coords.gif
-type: OCWImage
 uid: b4b7e83d-b897-f4fe-b33f-16f275d7751d
 ---

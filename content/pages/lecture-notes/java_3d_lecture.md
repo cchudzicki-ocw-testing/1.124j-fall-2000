@@ -6,7 +6,6 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: dd846b6b-f0c7-fd62-35a9-4e87d772d0e9
 title: Java 3D Lecture
-type: CourseSection
 uid: c9c9104a-ac54-a054-d006-354e424ccb63
 ---
 

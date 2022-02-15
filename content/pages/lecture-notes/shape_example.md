@@ -6,7 +6,6 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: dd846b6b-f0c7-fd62-35a9-4e87d772d0e9
 title: Shape Example
-type: CourseSection
 uid: c6123d4d-4502-1a86-7b77-30fc94e894d0
 ---
 

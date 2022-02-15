@@ -13,6 +13,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Image
 title: threadStates.gif
-type: OCWImage
 uid: ae8a01ce-c067-8292-35c5-26a24e75c1e2
 ---

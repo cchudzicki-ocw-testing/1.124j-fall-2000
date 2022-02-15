@@ -6,7 +6,6 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: dd846b6b-f0c7-fd62-35a9-4e87d772d0e9
 title: Overview of C++ and Object-Oriented Design
-type: CourseSection
 uid: e312aafc-945e-a3e5-3f05-35d1a78c3705
 ---
 
