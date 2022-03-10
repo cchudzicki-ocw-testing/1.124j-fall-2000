@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: scenegraphobject.gif
 uid: d718435c-535c-ef73-9917-b89c8413f90f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

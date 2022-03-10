@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: dd846b6b-f0c7-fd62-35a9-4e87d772d0e9
 title: Java Beans
 uid: 2e8745e9-24d4-cbb4-bc68-de6ae4f922b2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Topics

@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: coords.gif
 uid: b4b7e83d-b897-f4fe-b33f-16f275d7751d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

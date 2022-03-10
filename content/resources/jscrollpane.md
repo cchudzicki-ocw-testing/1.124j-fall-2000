@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: JScrollPane.gif
 uid: 165cde23-7f97-fe5f-cdbb-5d9941c49e3d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

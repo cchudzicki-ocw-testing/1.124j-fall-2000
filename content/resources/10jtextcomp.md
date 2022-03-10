@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 10jtextcomp.gif
 uid: 79dfd73b-4fa9-ad21-cb01-265849468f11
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

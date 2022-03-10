@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: transformation.gif
 uid: 339b4938-a492-82c1-5254-af6bded234ec
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

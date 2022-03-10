@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: rec2a.jpg
 uid: 493f266f-14df-0799-423b-0acc9c93027d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

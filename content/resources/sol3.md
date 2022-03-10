@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sol3.pdf
 uid: 65e37d83-9880-7fca-2353-1667638bf266
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

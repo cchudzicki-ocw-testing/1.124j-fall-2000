@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 23reader.gif
 uid: 1cbba491-40a5-7fb2-5b61-8b2b09f8ad7f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

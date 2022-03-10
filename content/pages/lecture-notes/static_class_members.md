@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: dd846b6b-f0c7-fd62-35a9-4e87d772d0e9
 title: Static Class Members
 uid: 0f2e5fd5-ac35-ade3-feed-1ed2cd37e418
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Static Member Data and Static Member Functions

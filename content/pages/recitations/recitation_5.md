@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 08c0c758-213b-77ad-faca-c379a74d5283
 title: Recitation 5
 uid: 85e3e2b7-be39-f207-1805-efe724b15f5f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 These notes were prepared by [Petros Komodromos](mailto:komodromos@ucy.ac.cy).  

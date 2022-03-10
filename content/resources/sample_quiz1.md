@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sample_quiz1.pdf
 uid: 97cea5df-725c-43ed-bef8-5c8eb6d92f51
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

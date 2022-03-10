@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 24writer.gif
 uid: dbddd749-9bde-d555-8b04-5f94dcea773b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

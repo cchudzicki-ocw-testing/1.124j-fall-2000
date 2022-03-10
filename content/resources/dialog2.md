@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: dialog2.gif
 uid: 8672770e-6ddf-47fe-c635-a6493d83d2f5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

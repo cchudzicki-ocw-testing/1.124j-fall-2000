@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: 25inputs.gif
 uid: 1cbac8d9-2fb4-22ad-4bce-f2b8e530b55c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

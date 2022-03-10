@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: dd846b6b-f0c7-fd62-35a9-4e87d772d0e9
 title: Source Code Management Using CVS
 uid: 3848cf7f-d910-16a7-0e67-d39e21a63f50
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Topics

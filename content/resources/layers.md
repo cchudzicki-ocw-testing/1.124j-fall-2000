@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: layers.jpg
 uid: 98532ffd-8b29-3d08-6c5d-b88595cfc417
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

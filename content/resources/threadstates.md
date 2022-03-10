@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: threadStates.gif
 uid: ae8a01ce-c067-8292-35c5-26a24e75c1e2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: dd846b6b-f0c7-fd62-35a9-4e87d772d0e9
 title: Operator Overloading
 uid: 856b251e-e05f-8ffe-ac12-de49977a2a23
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Operator Overloading

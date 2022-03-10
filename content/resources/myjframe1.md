@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: myJFrame1.gif
 uid: 25203a1d-1478-f4aa-8b55-5ecdb7403905
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

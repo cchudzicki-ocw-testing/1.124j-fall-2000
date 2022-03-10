@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: geometryarray.gif
 uid: d404ba55-8789-1a59-f627-8f8ae65b49b3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

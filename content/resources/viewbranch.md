@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: viewbranch.gif
 uid: be7231df-1539-a99c-6e1a-611c255912f1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

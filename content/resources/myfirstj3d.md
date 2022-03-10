@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: myfirstj3d.gif
 uid: 6b5587cd-656d-0bd0-fb79-7b5e50916d6c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

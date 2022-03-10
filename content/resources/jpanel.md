@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: jpanel.gif
 uid: 869b935d-454e-ccf7-b5d4-0efa3f0c0ccc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

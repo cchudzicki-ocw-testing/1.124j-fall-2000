@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: dd846b6b-f0c7-fd62-35a9-4e87d772d0e9
 title: Java 3D Lecture
 uid: c9c9104a-ac54-a054-d006-354e424ccb63
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This lecture is courtesy of Petros Komodromos.

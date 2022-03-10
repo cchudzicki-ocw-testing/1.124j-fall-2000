@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sol4.pdf
 uid: f4d31b74-60d4-b75c-2d3b-734f4be0f944
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

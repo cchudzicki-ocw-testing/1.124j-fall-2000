@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Recitations
 uid: 08c0c758-213b-77ad-faca-c379a74d5283
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
