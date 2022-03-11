@@ -14,4 +14,6 @@ title: pole.data
 uid: 321319c4-f173-bf36-9d0c-b81b86c39c74
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
