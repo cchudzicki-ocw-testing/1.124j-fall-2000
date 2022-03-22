@@ -108,7 +108,7 @@ A _checked exception_ requires the specification of the way that the exception s
 
 _Unchecked exceptions_ are of type _RuntimeException_, _Error_, or subclasses of them, and can be thrown anywhere without the need to specify the possibility of such exceptions to be thrown. Classes _Exception_ and _Error_ are subclasses of the class _Throwable__,_ as shown in the following figure, which was adapted from Sun's Java® Tutorial. Class _RuntimeException_ is a subclass of the class _Exception_.
 
-{{< resource f494f101-342f-990d-5567-57018b331777 "Unchecked exceptions." >}}
+{{< resource "f494f101-342f-990d-5567-57018b331777" >}}
 
 Any method (i.e. function) that may produce a non-RuntimeException should declare the type of exception that it can produce using the _throws_ keyword, or that exception should be caught in a _try/catch_ block in the method. The basic error type is class _Exception_, although there are more specific types of exceptions. When a checked exception occurs, the _throw_ keyword may used to actually create the _Exception_ object and either an exception handler should catch and handle the exception, or the function exits. Java® uses the "termination model of exception", since control cannot return to the _throw point,_ when an exception is thrown.
 
@@ -323,7 +323,7 @@ _Dead_: A thread can die either because the _run()_ method has finished executin
 
 The following diagram shows the possible life cycle of a thread:
 
-{{< resource ae8a01ce-c067-8292-35c5-26a24e75c1e2 "The possible life cycle of a thread." >}}
+{{< resource "ae8a01ce-c067-8292-35c5-26a24e75c1e2" >}}
 
 Note that the methods _stop(), suspend()_, and _resume()_ have been _deprecated_, and, therefore, should be avoided to manage threads. Instead of using the _stop()_ method, someone can modify some variable to indicate that the target thread should stop running. The target thread should check this variable regularly, and return from its run method as soon as this variable indicates that it is to stop running. A variable indicating the desired state of the thread can be used to specify whether it should be active or suspended, in order to avoid the _suspend()_, and _resume()_ methods. When the desired state is suspended, the thread can wait using the _wait()_ method. When the thread is resumed, the target thread is notified using the _notify()_ method.
 
@@ -500,17 +500,17 @@ The _java_.io package provides a collection of stream classes that support rea
   
 The abstract superclasses for character streams in _java_.io are the _Reader_ (abstract class for reading character streams) and the _Writer_ (abstract class for writing to character streams) classes, which partially provide the functionality for the characters reader and writer stream classes, respectively. _\[The following inserted figures have been adapted from the on-line [Java® Tutorial](http://java.sun.com/docs/books/tutorial/) of SUN\]_
 
-{{< resource 1cbba491-40a5-7fb2-5b61-8b2b09f8ad7f "Reading character streams." >}}
+{{< resource "1cbba491-40a5-7fb2-5b61-8b2b09f8ad7f" >}}
 
-{{< resource dbddd749-9bde-d555-8b04-5f94dcea773b "Writing character streams." >}}
+{{< resource "dbddd749-9bde-d555-8b04-5f94dcea773b" >}}
 
 In general, readers and writers should be preferred to read and write information since they can handle any character in the Unicode character set because they use 16-bits per character.
 
 Similarly, the abstract superclasses for byte streams in _java.io_ are the _InputStream_ (abstract class for reading byte streams) and the _OutputStream_ (abstract class for writing to byte streams) classes.
 
-{{< resource 1cbac8d9-2fb4-22ad-4bce-f2b8e530b55c "Input stream." >}}
+{{< resource "1cbac8d9-2fb4-22ad-4bce-f2b8e530b55c" >}}
 
-{{< resource 3aa45619-1b51-aac0-7185-03a7d52afeed "Output stream." >}}
+{{< resource "3aa45619-1b51-aac0-7185-03a7d52afeed" >}}
 
 _Reader_ and _InputStream_ provide methods for reading characters and bytes, respectively. They also provide methods for marking a location in the stream, skipping input, and resetting the current position. Similarly, _Writer_ and _OutputStream_ provide methods for writing characters and bytes, respectively.
 
@@ -614,7 +614,7 @@ The above applet can be executed using an html file like the following:
 
 Then, appletviewer (using the command: _appletviewer SwingApplet1.html_) displays the following window:
 
-{{< resource e2e07bc1-49a4-0f71-39ec-550361e33d5d "Applet viewer." >}}
+{{< resource "e2e07bc1-49a4-0f71-39ec-550361e33d5d" >}}
 
 Similarly, the _JFrame_ class can be used to create a _Swing application_ similar to the above applet. The _JFrame_ class is a subclass of the _AWT_   _Frame_ class and implements the _Accessible__,_ _WindowConstants__,_ and _RootPaneContainer_ interfaces. It uses the _BorderLayout_ manager for its content pane. The source code is presented below:
 
@@ -660,7 +660,7 @@ As any Java® application, a _main()_ method must be provided. In _main()_ a _J
 
 Running the Java® interpreter (using _java_ _SwingApplication1)_ will execute the program and give the following window:
 
-{{< resource 78991a57-f994-7e6e-1fa6-17b608d9c421 "Swing application." >}}
+{{< resource "78991a57-f994-7e6e-1fa6-17b608d9c421" >}}
 
 Often, the source code file can be written in a way that it can be used both as an applet and an application. The above example is rewritten in way to facilitate such a use. The source code is provided below:
 
