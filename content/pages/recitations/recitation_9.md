@@ -596,7 +596,7 @@ An _accelerator_, which offers keyboard shortcuts to bypass navigating the menu 
 
 The following image (adapted from the Sun's Swing/JFC Tutorial) presents the menu-related inheritance hierarchy:
 
-![The menu-related inheritance hierarchy.](/courses/civil-and-environmental-engineering/1-124j-foundations-of-software-engineering-fall-2000/recitations/object.gif)
+{{< resource "532734fc-f001-3791-4cac-a52e776aa593" >}}
 
 Since a menu is a lightweight component, a component of any type can be added to it. A menu that resides in a menu bar is considered as a top-level menu, while a menu contained in a menu is considered a cascading menu.
 

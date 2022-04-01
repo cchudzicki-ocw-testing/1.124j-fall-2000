@@ -211,7 +211,7 @@ Typically, a Java® 3D program has only one [_VirtualUniverse_](http://java.sun
 
 The [_VirtualUniverse_](http://java.sun.com/products/java-media/3D/forDevelopers/J3D_1_2_API/j3dapi/javax/media/j3d/VirtualUniverse.html) and [_Locale_](http://java.sun.com/products/java-media/3D/forDevelopers/J3D_1_2_API/j3dapi/javax/media/j3d/Locale.html) classes, as well as the [_View_](http://java.sun.com/products/java-media/3D/forDevelopers/J3D_1_2_API/j3dapi/javax/media/j3d/View.html) class, are subclasses of the basic superclass [_**Object**_](https://docs.oracle.com/javase/tutorial/java/IandI/objectclass.html), as shown below:
 
-![The VirtualUniverse, Locale and View class as subclasses of the basic superclass Object.](/courses/civil-and-environmental-engineering/1-124j-foundations-of-software-engineering-fall-2000/lecture-notes/object.gif)  
+{{< resource "e45316c9-a420-f0b0-66d3-544026497bcd" >}}  
   
  
 
