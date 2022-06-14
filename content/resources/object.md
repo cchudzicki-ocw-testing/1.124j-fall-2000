@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-124j-foundations-of-software-engineering-fall-2000/e45316c9a420f0b066d3544026497bcd_object.gif
+file: /courses/1-124j-foundations-of-software-engineering-fall-2000/e45316c9a420f0b066d3544026497bcd_object.gif
 file_type: image/gif
 image_metadata:
   caption: ''
